@@ -1,0 +1,43 @@
+{
+  "packageId": "com.zentilematch.puzzle3d",
+  "host": "ais-pre-tfkiyn52tsrinwxhrflitv-751142737380.us-east1.run.app",
+  "name": "Zen Tile Match 3D",
+  "launcherName": "ZenTileMatch",
+  "themeColor": "#1a2e22",
+  "themeColorDark": "#0a0e17",
+  "navigationColor": "#080b12",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#00000000",
+  "navigationDividerColorDark": "#00000000",
+  "backgroundColor": "#080b12",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/icon.svg",
+  "maskableIconUrl": "/icon.svg",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": false
+    },
+    "playBilling": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "/"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zentilematch.puzzle3d",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:DE:8F:F1:0E:CF:60:6B:E3:69:45:90:5F:A5:77:04:7E:2B:CC:25:4B:AE:A4:C6:71:08:1E:5E:8B:F9"
+      ]
+    }
+  }
+]

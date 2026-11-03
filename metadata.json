@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zen Tile Match 3D",
+  "description": "Tactile 3D tile matching puzzle game optimized for mobile devices featuring layered board stacks, satisfying 3-tile combos, power-up boosters, and relaxing zen soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
